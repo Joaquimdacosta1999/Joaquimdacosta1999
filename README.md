@@ -19,7 +19,7 @@ I am a **Entre-level Full Stack Developer** and **IT Support Specialist** from C
         <img src="https://em-content.zobj.net/source/apple/354/man-technologist_1f468-200d-1f4bb.png" width="20" height="20"> I'm a passionate Full Stack Developer and IT Support Specialist from Cape Town, South Africa 🇿🇦.
       </p>
       <p>
-        <img src="https://em-content.zobj.net/source/microsoft-teams/363/house-with-garden_1f3e1.png" width="20" height="20"> I love building practical and creative projects that solve real-world problems. 🤝 I love collaborating on Open-source projects.
+        <img src="https://em-content.zobj.net/source/microsoft-teams/363/house-with-garden_1f3e1.png" width="20" height="20"> I love building practical and creative projects that solve real-world problems. 🤝 I love collaborating on Open-source projects and open to new entre-level position.
       </p>
       <p>
         <img src="https://em-content.zobj.net/source/microsoft-teams/363/e-mail_1f4e7.png" width="20" height="20"> You can reach me at: <a href="mailto:joaquimdacosta1999@gmail.com">joaquimdacosta1999@gmail.com</a>
