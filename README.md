@@ -24,6 +24,9 @@ I am a **Entre-level Full Stack Developer** and **IT Support Specialist** from C
       <p>
         <img src="https://em-content.zobj.net/source/microsoft-teams/363/e-mail_1f4e7.png" width="20" height="20"> You can reach me at: <a href="mailto:joaquimdacosta1999@gmail.com">joaquimdacosta1999@gmail.com</a>
       </p>
+      <p>
+        <a href="https://joaquim-costa-portfolio-95v3.vercel.app/">My Portfolio</a>
+        </p>
     </td>
     <td width="50%">
       <h2>
