@@ -45,9 +45,10 @@ I am a **Entre-level Full Stack Developer** and **IT Support Specialist** from C
 -  Fluent in **English** and **Portuguese**.
 
 ## Technical Skills 🚀
-- **Languages:** HTML5, CSS3, JavaScript, SQL
+- **Languages:** HTML5, CSS3, JavaScript
 - **Front-End:** React, Tailwind CSS, Responsive Design
-- **Back-End:** Node.js
-- **Databases:** MongoDB, PostgreSQL
 - **Tools & Platforms:** Git, GitHub, npm, VS Code, Webpack, Jira, Intercom, Slack
 - **IT & DevOps:** Hardware & Software Troubleshooting, Network Security, Cloud Computing, Server Administration
+- **CRM Tools:** Salesforce, Microsoft Dynamics 365, Intercom, Jira
+<!-- - **Back-End:** Node.js 
+- **Databases:** MongoDB, PostgreSQL -->
