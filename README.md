@@ -1,6 +1,6 @@
 # Hello there 👋 I'm Joaquim Costa!
 
-I am a **Junior Software Developer | Open Source contributor** and **IT Support Specialist** from Cape Town, South Africa 🇿🇦.
+I am a **Junior Software Developer | Open Source contributor**, **Senior Customer Specialist** and **IT Support Specialist** from Cape Town, South Africa 🇿🇦.
 
 ## 🌐 Connect with Me
 
